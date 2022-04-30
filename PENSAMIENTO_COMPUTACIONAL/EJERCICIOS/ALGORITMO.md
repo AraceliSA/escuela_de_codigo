@@ -28,7 +28,12 @@
 # Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
 # 1 Inicio
-# 2 Declarar (Precio inicial, precio actual, porcentaje)
-# 3 Ingresar valores de (Precio inicial, porcentaje
-# 4 Mostrar Precio inicial
-# 5 
+# 2 Declarar (Panterior, pactual, diferencia, incremento, porcentaje)
+# 3 Ingresar valores de (Panterior,pactual, diferencia, incremento,porcentaje)
+# 4 Mostrar Precio anterior
+# 6 mostrar Precio actual
+# 5 diferencia = pactual-panterior 
+# 6 incremento = diferencia/panterior
+# 7 porcentaje = incremento * 100
+# 8 El porcentaje que aumento es: porcentaje
+# 9 Fin
