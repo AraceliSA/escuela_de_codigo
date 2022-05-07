@@ -2,20 +2,38 @@
 ## REALIZAR LOS SIGUIENTES RETOS CON SU ALGORITMO Y DIAGRAMA DE FLUJO CORRESPONDIENTE CADA UNO 
 
 * Programa que pida un número y diga si es positivo o negativo
+    *
     1.- inicio
-    2.- declarar (num1, num2)int
+    2.- declarar (num)int
     3.- mostrar ("ingresa un número:")
-    4.- asignar (num1)
-    5.- si num1<=0 entoces
+    4.- asignar (num)
+    5.- si num<=0 entoces
           mostrar ("el número es positivo")
         sino
           mostrar ("el número es negativo")
           finsi
     6.- fin
-    7.![image](https://user-images.githubusercontent.com/104279876/167274621-3f24e0a2-69b3-4c5d-adec-6289920a7f19.png)
+    7.![image](https://user-images.githubusercontent.com/104279876/167275343-3218ccb3-0ac0-4da0-b09a-836a4b194d50.png)
 
 
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+* 1.- inicio
+* 2.- Declarar (letra)
+* 3.- mostrar("Ingresa una letra:")
+* 4.- asiganar(letra)
+* 5.- si letra==s entoces 
+*            mostar ( "Tu letra es s")
+*            sino
+*            si letra==n
+              mostar ("Tu letra es n")
+             sino 
+             si letra n
+             mostrar ("Esa letra es invalida.")
+             finsi
+ * 6.-fin
+![image](https://user-images.githubusercontent.com/104279876/167275253-cfb98022-42d1-4726-9fc2-45c0c7f4173c.png)
+
+
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
