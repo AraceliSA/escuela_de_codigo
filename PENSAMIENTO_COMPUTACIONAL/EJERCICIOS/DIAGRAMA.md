@@ -8,7 +8,8 @@
    6.- mostrar("El resultado de la multiplicación es", resul)
    7.- fin
    
-    #![image](https://user-images.githubusercontent.com/104279876/168213072-e4e82e7e-8cd2-40eb-9734-f4d0888dd48d.png)
+# ![image](https://user-images.githubusercontent.com/104279876/168216622-6b32620f-a5a0-4c82-aab9-8e7429b553dd.png)
+
 
 
 # 2. Realizar el algoritmo y diagrama de flujo de un programa que solicite un numero de metros y los convierta a yardas, mostrando el resultado.
