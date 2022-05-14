@@ -36,6 +36,33 @@
 
 
 # * Un programa que pida una letra y detecte si es una vocal. 
+ 1.-inicio
+ 2.- declarar(letra)char
+ 3.- mostar ("Ingresa una letra:")
+ 4.- asignar (letra)
+ 5.- si letra=a entonces
+           mostar ("Es una vocal:"letra)
+           sino
+           si letra=e entones
+           mostrar ("Es una vocal:" letra)
+           sino
+           si letra=i entonces
+           mostrar ("Es una vocal:" letra)
+           sino 
+           si letra=o entonces
+           mostar ("Es una vocal:" letra)
+           sino 
+           si letra = u entonces
+           mostrar ("Es una vocal:" letra)
+           sino 
+           mostar ("La letra que has ingresado no es vocal")
+           finsi
+           finsi
+           finsi
+           finsi
+           finsi
+   6.- fin 
+ 
 # * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 # * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
 # * De un programa que permita al usuario elegir un candidato por el cual votar. Las posibilidades son: candidato A por el partido rojo, candidato B por el partido verde, candidato C por el partido azul. Según el candidato elegido (A, B ó C) se le debe imprimir el mensaje “Usted ha votado por el partido [color que corresponda al candidato elegido]”. Si el usuario ingresa una opción que no corresponde a ninguno de los candidatos disponibles, indicar “Opción errónea”.
