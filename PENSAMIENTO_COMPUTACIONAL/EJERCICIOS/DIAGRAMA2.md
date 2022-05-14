@@ -12,7 +12,7 @@
              mostrar ("El numero mayor es:" num2)
              finsi
      8.- fin 
-     # ![image](https://user-images.githubusercontent.com/104279876/168411913-b88ed640-56a1-42b3-9870-ee95e2343fc4.png)
+    # # ![image](https://user-images.githubusercontent.com/104279876/168411913-b88ed640-56a1-42b3-9870-ee95e2343fc4.png)
      
 
 # 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
@@ -35,7 +35,7 @@
               finsi
      13.- fin
     
-    #![image](https://user-images.githubusercontent.com/104279876/168412958-19d3f6f4-6408-4cf8-800a-a427f6eac815.png)
+   # #![image](https://user-images.githubusercontent.com/104279876/168412958-19d3f6f4-6408-4cf8-800a-a427f6eac815.png)
 
 
 # 3. Realizar un algoritmo y diagrama de flujo para un programa que solicite un número e indique si es par o impar.
