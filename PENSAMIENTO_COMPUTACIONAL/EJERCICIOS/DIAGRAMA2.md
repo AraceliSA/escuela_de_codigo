@@ -13,7 +13,9 @@
              finsi
      8.- fin 
      
-    # # ![image](https://user-images.githubusercontent.com/104279876/168411913-b88ed640-56a1-42b3-9870-ee95e2343fc4.png)
+    # ![image](https://user-images.githubusercontent.com/104279876/168413105-50bd0b85-a4c8-4b2e-b61d-0ab0e3a4ba11.png)
+
+   # ![image](https://user-images.githubusercontent.com/104279876/168411913-b88ed640-56a1-42b3-9870-ee95e2343fc4.png)
      
 
 # 2. Realiza un algoritmo y diagrama de flujo de un programa que resuelva el sigueinte problema: Solicitando se ingresen 4 calificaciones, una por periodo, se obtenga el promedio y se imprima una felicitación a quien obtenga un promedio mayor a 6, y se le informe ha reprobado a quien obtenga una calificacion menor a 6.
