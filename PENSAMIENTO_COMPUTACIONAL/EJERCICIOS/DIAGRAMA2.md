@@ -12,6 +12,7 @@
              mostrar ("El numero mayor es:" num2)
              finsi
      8.- fin 
+     
     # # ![image](https://user-images.githubusercontent.com/104279876/168411913-b88ed640-56a1-42b3-9870-ee95e2343fc4.png)
      
 
